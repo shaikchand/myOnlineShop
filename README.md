@@ -1,0 +1,2 @@
+# myOnlineShop
+Angular + MongoDB Project
